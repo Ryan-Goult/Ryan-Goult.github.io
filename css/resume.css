@@ -103,7 +103,7 @@ p.lead {
     flex-direction: column;
     width: 17rem;
     height: 100vh;
-	margin-bottom:250px;
+	margin-bottom:1000px;
   }
   #sideNav .navbar-brand {
     display: flex;
