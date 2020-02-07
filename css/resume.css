@@ -174,8 +174,3 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-.resume-date text-md-right{
-	columns: 2;
-	-webkit-columns: 2;
-	-moz-columns: 2;
-}
